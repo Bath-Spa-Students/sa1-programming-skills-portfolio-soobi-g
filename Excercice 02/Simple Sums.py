@@ -1,5 +1,5 @@
 #simple sums
-x=8
+a=8
 y=10
-z=(x+y)
+z=(a+y)
 print(z)
