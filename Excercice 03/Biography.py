@@ -1,6 +1,5 @@
-info=
-     {name=BOUCIF
-     age=19
-     hometown=("rasalkhaimah")}
+#storing informations
+info ={"name":" BOUCIF","age": 19,"hometown":"rasalkhaimah"}
 print(info)
+
  
