@@ -28,3 +28,4 @@ if 1 <=month_entered<= 12:
         print(f"valid month number and it has{daysinmonth[month_entered]}days.")
 else:
     print("incorrect month number")
+    
