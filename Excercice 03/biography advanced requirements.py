@@ -1,4 +1,4 @@
-# getting inpit
+# getting input
 first_name = input("what's your first name? ")
 second_name = input("what's your second name? ")
 
